@@ -18,3 +18,9 @@ reportgenerator -reports:"{path_to_your_project}\coverage.opencover.xml" -target
 #Alcance de cobertura de pruebas
 Actualmente cubre el 100%
 ![Imagen de WhatsApp 2024-05-09 a las 15 00 42_324c0c39](https://github.com/elunadanilo/testBrandCard/assets/60908456/5c7cc00a-81c5-42f0-be79-1937f42709cc)
+
+#Verificacion
+Al ejecutar el comando compose debera aparecerte un status similar en tu DockerDesktop
+![image](https://github.com/elunadanilo/testBrandCard/assets/60908456/6054c5b7-8a8c-4c90-9395-561d58e0d619)
+Posteriormente puedes acceder a la api por medio de http://localhost:5434/swagger/index.html 
+![image](https://github.com/elunadanilo/testBrandCard/assets/60908456/da870935-486c-445b-acfe-fd7bdbf5197d)
