@@ -14,3 +14,7 @@ docker-compose up --build -d
 Generacion del reporte
 Previo a generar el reporte 
 reportgenerator -reports:"{path_to_your_project}\coverage.opencover.xml" -targetdir:"coveragereport" -reporttypes:Html
+
+#Alcance de cobertura de pruebas
+Actualmente cubre el 100%
+![Imagen de WhatsApp 2024-05-09 a las 15 00 42_324c0c39](https://github.com/elunadanilo/testBrandCard/assets/60908456/5c7cc00a-81c5-42f0-be79-1937f42709cc)
