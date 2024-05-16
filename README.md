@@ -1,5 +1,7 @@
 # testBrandCard
 
+##VERSION NUEVA DEL PROYECTO YA QUE ESTE PROYECTO NO SUFRIRA NINGUN CAMBIO EN EL FUTURO. EL ENLACE AL NUEVO ES: https://github.com/elunadanilo/TestCarBrand.git
+
 # Ejecucion del proyecto
 
 Para poder ejecutar el proyecto en Docker se debe ejecutar el siguiente comando:
